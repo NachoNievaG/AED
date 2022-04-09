@@ -1,2 +1,8 @@
 # AED
-Repositorio publico e individual para algoritmos y estructura de datos
+
+* Algoritmos y Estructuras de Datos
+* K1253
+* 2022
+* 160.763-7
+* Nieva
+* Jose Ignacio
